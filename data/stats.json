@@ -1,0 +1,10 @@
+{
+  "artifact": "cimap",
+  "page_count": 431,
+  "example_count": 543,
+  "complete_pairs": 520,
+  "parse_ok_pairs": 497,
+  "output_lint_ok_pairs": 236,
+  "syntactically_clean_pairs": 230,
+  "source": "gh-actions-importer/docs"
+}

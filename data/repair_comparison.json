@@ -1,0 +1,40 @@
+{
+  "before": {
+    "examples": 543,
+    "with_input": 529,
+    "with_output": 520,
+    "complete_pairs": 520,
+    "input_parse_ok": 501,
+    "output_parse_ok": 484,
+    "both_parse_ok": 461
+  },
+  "after": {
+    "examples": 543,
+    "with_input": 529,
+    "with_output": 520,
+    "complete_pairs": 520,
+    "input_parse_ok": 520,
+    "output_parse_ok": 505,
+    "both_parse_ok": 497
+  },
+  "delta": {
+    "input_parse_ok": 19,
+    "output_parse_ok": 21,
+    "both_parse_ok": 36
+  },
+  "before_rates": {
+    "input_parse_ok_pct": 94.71,
+    "output_parse_ok_pct": 93.08,
+    "both_parse_ok_pct": 88.65
+  },
+  "after_rates": {
+    "input_parse_ok_pct": 98.3,
+    "output_parse_ok_pct": 97.12,
+    "both_parse_ok_pct": 95.58
+  },
+  "repair_counts": {
+    "inputs_repaired": 22,
+    "outputs_repaired": 34,
+    "examples_with_any_repair": 53
+  }
+}

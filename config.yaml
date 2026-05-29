@@ -1,0 +1,12 @@
+# CIMap paths (relative to repository root)
+
+docs_path: "docs"
+
+extracted_json: "data/docs_extracted.json"
+validated_json: "data/docs_validated.json"
+repaired_json: "data/docs_repaired.json"
+repaired_validated_json: "data/docs_repaired_validated.json"
+cimap_docs_json: "data/cimap_docs.json"
+repair_comparison_json: "data/repair_comparison.json"
+sqlite_path: "data/cimap_docs.sqlite"
+stats_json: "data/stats.json"

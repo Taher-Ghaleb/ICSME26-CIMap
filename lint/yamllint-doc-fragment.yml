@@ -1,0 +1,12 @@
+# Relaxed rules for CI doc fenced snippets (not full pipeline files).
+extends: default
+
+rules:
+  line-length: disable
+  document-start: disable
+  comments: disable
+  comments-indentation: disable
+  truthy: disable
+  empty-lines: disable
+  new-lines: disable
+  new-line-at-end-of-file: disable

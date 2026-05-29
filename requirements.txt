@@ -1,0 +1,4 @@
+pyyaml>=6.0
+tqdm>=4.66
+yamllint>=1.35.0
+pytest>=8.0
